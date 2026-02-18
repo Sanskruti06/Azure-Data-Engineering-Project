@@ -58,6 +58,7 @@ End-to-End Data Flow
 
 
 **5. Future Enhancements**
+
 How to Integrate Power BI
 	1.	Open Power BI Desktop
 	2.	Click Get Data → Azure → Azure Synapse Analytics (SQL Server)
