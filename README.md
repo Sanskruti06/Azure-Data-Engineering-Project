@@ -10,7 +10,6 @@ This project simulates a real-world enterprise data engineering workflow.
 
 ---
 
-—
 End-to-End Data Flow
 
 **1. Data Ingestion (Bronze Layer)**
