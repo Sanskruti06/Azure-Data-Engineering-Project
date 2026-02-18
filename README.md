@@ -22,7 +22,9 @@ End-to-End Data Flow
 
   <img width="2936" height="1544" alt="image" src="https://github.com/user-attachments/assets/af4a28f9-e68c-41f8-b627-b32cc20b308f" />
 
-  <img width="2936" height="1594" alt="image" src="https://github.com/user-attachments/assets/3cbdf7f8-de0e-4ea7-9942-11376f7f8fab" />
+
+  <img width="2938" height="1544" alt="image" src="https://github.com/user-attachments/assets/4fbb5eb6-db16-4738-88f0-09ed82128bea" />
+
 
 
 **2. Data Transformation (Silver Layer)**
@@ -32,7 +34,9 @@ End-to-End Data Flow
 
 <img width="2938" height="1592" alt="image" src="https://github.com/user-attachments/assets/1ed51632-d1cb-4630-a690-4fe4e3cf92b2" />
 
-<img width="2938" height="1594" alt="image" src="https://github.com/user-attachments/assets/96d36b32-e866-4424-bee4-f223752fca99" />
+
+<img width="2938" height="1540" alt="image" src="https://github.com/user-attachments/assets/abd7e93f-3d24-4db0-bc58-87e0bab9fd08" />
+
 
 
 **3. Data Serving (Gold Layer)**
@@ -44,7 +48,9 @@ End-to-End Data Flow
 
 <img width="2938" height="1546" alt="image" src="https://github.com/user-attachments/assets/24dc1c22-3ed5-488e-9e57-397d69362f11" />
 
-<img width="2938" height="1202" alt="image" src="https://github.com/user-attachments/assets/e2f5fb81-c302-42a6-a755-088ba1360d53" />
+
+<img width="2936" height="1540" alt="image" src="https://github.com/user-attachments/assets/de363408-96a1-4f22-8b8d-897fe1e5affe" />
+
 
 
 **4. Analytics Layer**
