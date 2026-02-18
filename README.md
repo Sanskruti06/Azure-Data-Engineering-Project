@@ -9,6 +9,7 @@ The solution ingests raw data from GitHub, stores it in Azure Data Lake Storage 
 This project simulates a real-world enterprise data engineering workflow.
 
 ---
+<img width="1536" height="1024" alt="Architecture" src="https://github.com/user-attachments/assets/592fe245-fb45-4edc-ac21-eb0b1c392c7c" />
 
 End-to-End Data Flow
 
