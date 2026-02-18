@@ -60,11 +60,17 @@ End-to-End Data Flow
 **5. Future Enhancements**
 
 How to Integrate Power BI
+
 	1.	Open Power BI Desktop
+	
 	2.	Click Get Data → Azure → Azure Synapse Analytics (SQL Server)
+	
 	3.	Enter Synapse Serverless endpoint
+	
 	4.	Select Gold layer views
+	
 	5.	Build dashboards using measures and visuals
+	
 	6.	Publish report to Power BI Service
 
 ---
