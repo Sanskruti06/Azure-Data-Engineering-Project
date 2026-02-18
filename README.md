@@ -19,7 +19,9 @@ End-to-End Data Flow
 - Azure Data Factory pipelines ingest CSV data from GitH₹ub.
 - Raw data is stored in Azure Data Lake Storage Gen2 (Bronze container).
 - Dynamic pipelines implemented using Lookup + ForEach activities.
-  
+
+  <img width="2936" height="1544" alt="image" src="https://github.com/user-attachments/assets/af4a28f9-e68c-41f8-b627-b32cc20b308f" />
+
   <img width="2936" height="1594" alt="image" src="https://github.com/user-attachments/assets/3cbdf7f8-de0e-4ea7-9942-11376f7f8fab" />
 
 
@@ -27,6 +29,8 @@ End-to-End Data Flow
 - Azure Databricks notebooks process raw data.
 - Data cleaning, transformation, and schema enforcement performed using PySpark.
 - Data stored in Parquet format for optimized querying.
+
+<img width="2938" height="1590" alt="image" src="https://github.com/user-attachments/assets/aab4bd7a-d8a6-475b-9f4e-917a4b34f98c" />
 
 <img width="2938" height="1594" alt="image" src="https://github.com/user-attachments/assets/96d36b32-e866-4424-bee4-f223752fca99" />
 
@@ -37,6 +41,8 @@ End-to-End Data Flow
   - Create external tables
   - Run OPENROWSET queries
   - Create views for reporting
+
+<img width="2938" height="1546" alt="image" src="https://github.com/user-attachments/assets/24dc1c22-3ed5-488e-9e57-397d69362f11" />
 
 <img width="2938" height="1202" alt="image" src="https://github.com/user-attachments/assets/e2f5fb81-c302-42a6-a755-088ba1360d53" />
 
