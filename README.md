@@ -30,7 +30,7 @@ End-to-End Data Flow
 - Data cleaning, transformation, and schema enforcement performed using PySpark.
 - Data stored in Parquet format for optimized querying.
 
-<img width="2938" height="1590" alt="image" src="https://github.com/user-attachments/assets/aab4bd7a-d8a6-475b-9f4e-917a4b34f98c" />
+<img width="2938" height="1592" alt="image" src="https://github.com/user-attachments/assets/1ed51632-d1cb-4630-a690-4fe4e3cf92b2" />
 
 <img width="2938" height="1594" alt="image" src="https://github.com/user-attachments/assets/96d36b32-e866-4424-bee4-f223752fca99" />
 
