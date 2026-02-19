@@ -85,4 +85,3 @@ How to Integrate Power BI
 - Azure Synapse Analytics (Serverless SQL)
 - PySpark
 - SQL
-- Parquet
