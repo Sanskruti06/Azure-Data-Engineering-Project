@@ -4,7 +4,9 @@
 
 This project demonstrates a complete Azure-based data engineering pipeline implementing the Medallion Architecture (Bronze → Silver → Gold).
 
-The solution ingests raw data from GitHub, stores it in Azure Data Lake Storage Gen2, processes it using Azure Databricks (PySpark), and exposes curated datasets through Azure Synapse Analytics for analytics and reporting.
+The solution ingests raw data from Github URL, stores it in Azure Data Lake Storage Gen2, processes it using Azure Databricks (PySpark), and exposes curated datasets through Azure Synapse Analytics for analytics and reporting.
+
+(Original Dataset Link: https://www.kaggle.com/datasets/ukveteran/adventure-works)
 
 This project simulates a real-world enterprise data engineering workflow.
 
@@ -16,7 +18,7 @@ This project simulates a real-world enterprise data engineering workflow.
 End-to-End Data Flow
 
 **1. Data Ingestion (Bronze Layer)**
-- Azure Data Factory pipelines ingest CSV data from GitH₹ub.
+- Azure Data Factory pipelines ingest CSV data from Github.
 - Raw data is stored in Azure Data Lake Storage Gen2 (Bronze container).
 - Dynamic pipelines implemented using Lookup + ForEach activities.
 
